@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm **Shamika**, a Computer Science with Management student at UWI STA.  
+I'm Shamika, a Computer Science with Management student at UWI STA.  
 
 💡 I enjoy building projects that align with my coursework while exploring ideas for more creative, personal builds.  
 🌱 As I grow in my tech journey, I’m continuously learning and developing my skills.
