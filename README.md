@@ -3,7 +3,9 @@
 I'm Shamika, a Computer Science with Management student at UWI STA.  
 
 💡 I enjoy building projects that align with my coursework while exploring ideas for more creative, personal builds.  
+
 🌱 As I grow in my tech journey, I’m continuously learning and developing my skills.
+
 ❤️ I'm especially interested in combining **technology and healthcare** to create meaningful, real-world solutions.  
 
 ---
